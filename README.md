@@ -481,7 +481,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [modoboa](https://github.com/tonioo/modoboa) - A mail hosting and management platform including a modern and simplified Web User Interface.
 * [envelopes](http://tomekwojcik.github.io/envelopes/) - Mailing for human beings.
 * [mailjet](https://github.com/WoLpH/mailjet) - Mailjet API implementation for batch mailing, statistics and more.
-
+* [mailer 0.7](https://bitbucket.org/ginstrom/mailer/src) - A module to send email simply in Python
 ## Internationalization
 
 *Libraries for woking with i18n.*
